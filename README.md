@@ -1,2 +1,2 @@
 # hello-world
-I like tutorials, they're very informative.
+I like tutorials from Treehouse, they're very informative.
